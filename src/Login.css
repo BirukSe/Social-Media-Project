@@ -1,0 +1,70 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f0f0; /* Light background */
+}
+
+.form-signin {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 1rem;
+    background: linear-gradient(135deg, #6a82fb, #fc5c7d); /* Gradient background */
+    color: #fff; /* White text color */
+}
+
+.form-signin form {
+    width: 100%;
+    max-width: 400px;
+    background: #fff; /* White background for the form */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+    padding: 2rem; /* Padding inside the form */
+}
+
+.logo {
+    display: block;
+    margin: 0 auto; /* Center the logo */
+}
+
+h1 {
+    font-size: 2rem; /* Bigger font size */
+    text-align: center; /* Center the title */
+    color: #333; /* Darker text color */
+}
+
+.form-floating {
+    position: relative;
+}
+
+.form-control {
+    height: 50px; /* Increased input height */
+    font-size: 1.2rem; /* Bigger font size for inputs */
+    border: 1px solid #ced4da;
+    border-radius: 5px; /* Rounded corners */
+}
+
+.form-control:focus {
+    border-color: #6a82fb; /* Color change on focus */
+    box-shadow: 0 0 5px rgba(106, 130, 251, 0.5);
+}
+
+.btn-primary {
+    background-color: #6a82fb; /* Primary button color */
+    border: none;
+    height: 50px; /* Increased button height */
+    font-size: 1.2rem; /* Bigger button font size */
+    border-radius: 5px; /* Rounded corners */
+}
+
+.btn-primary:hover {
+    background-color: #5a6bc2; /* Darker on hover */
+}
+
+.text-body-secondary {
+    color: #6c757d; /* Secondary text color */
+    text-align: center; /* Center the footer text */
+}

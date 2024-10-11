@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.form-signin {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    padding: 1rem; /* Optional padding */
+}
+
+.form-signin form {
+    width: 100%;
+    max-width: 400px; /* Set a maximum width for the form */
+}

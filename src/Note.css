@@ -1,0 +1,23 @@
+.box {
+    background-color: #f9f9f9; /* Light background for the note */
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 20px; /* Space inside the note */
+    margin: 10px; /* Space outside the note */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.fplace {
+    margin-bottom: 10px; /* Space between title and text */
+}
+
+h1 {
+    font-size: 1.5em; /* Font size for the title */
+    color: #333; /* Dark text color */
+}
+
+.splace {
+    color: #666; /* Gray color for the text */
+    font-size: 1.1em; /* Slightly smaller size for text */
+    line-height: 1.5; /* Space between lines for readability */
+}
