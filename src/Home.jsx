@@ -31,7 +31,7 @@ function Home() {
                 <button onClick={signupHandler} type="button" className="btn btn-success">Sign Up</button>
             </div>
 
-            <a href="https://youtu.be/7d2XsPSjjjI" target="_blank" rel="noopener noreferrer">
+            <a href="#" target="_blank" rel="noopener noreferrer">
                 <footer>
                     <div className="texto">
                         <span>
