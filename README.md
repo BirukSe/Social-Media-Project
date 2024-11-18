@@ -1,6 +1,6 @@
 # HandBook - Social Media App
 
-![HandBook Screenshot](socialApp)
+![HandBook Screenshot](socialApp.png)
 
 HandBook is a social media app built using React. It allows users to create posts, interact with others, and engage in meaningful conversations. This app is designed to be a platform where people can share ideas, news, and experiences.
 
